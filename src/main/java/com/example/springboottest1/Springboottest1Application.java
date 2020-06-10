@@ -11,6 +11,7 @@ import org.springframework.context.annotation.ComponentScan;
 public class Springboottest1Application {
 
 	public static void main(String[] args) {
+		// sss
 		SpringApplication.run(Springboottest1Application.class, args);
 	}
 }
